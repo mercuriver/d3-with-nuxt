@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mercuriver/d3-with-nust/issues"
   },
-  "homepage": "https://github.com/mercuriver/d3-with-nust#readme"
+  "homepage": "https://github.com/mercuriver/d3-with-nust#readme",
+  "dependencies": {
+    "nuxt": "^3.0.0"
+  }
 }
