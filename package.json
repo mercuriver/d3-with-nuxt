@@ -1,0 +1,26 @@
+{
+  "name": "d3-with-nuxt",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "description": "d3 with nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercuriver/d3-with-nust.git"
+  },
+  "keywords": [
+    "d3",
+    "nuxt"
+  ],
+  "author": "mercuriver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mercuriver/d3-with-nust/issues"
+  },
+  "homepage": "https://github.com/mercuriver/d3-with-nust#readme"
+}
