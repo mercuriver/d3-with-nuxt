@@ -1,1 +1,1 @@
-# d3-with-nust
+# d3-with-nuxt
