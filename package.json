@@ -1,10 +1,10 @@
 {
   "name": "d3-with-nuxt",
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt start"
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "start": "nuxi start"
   },
   "description": "d3 with nuxt",
   "version": "1.0.0",
